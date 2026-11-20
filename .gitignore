@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+exports/*.csv
+data/*.corrupt-*
+data/*.tmp

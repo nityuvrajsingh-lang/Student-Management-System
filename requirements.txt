@@ -1,0 +1,4 @@
+# Student Management System
+# No third-party packages are required.
+# The project uses only the Python standard library (json, csv, re, statistics, pathlib, ...).
+# Python 3.8 or newer is recommended.

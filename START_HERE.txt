@@ -1,0 +1,21 @@
+STUDENT MANAGEMENT SYSTEM - GUI VERSION
+
+1. Open this folder in VS Code.
+2. Open Terminal > New Terminal.
+3. Run: python gui.py
+   If that does not work, try: py gui.py
+
+The GUI uses Tkinter, which is included with most standard Python installations.
+No pip install is normally required.
+
+Features:
+- Add, view, search, update and delete student records
+- Automatic student ID generation
+- Automatic percentage, grade and pass/fail calculation
+- Dashboard with class statistics
+- Class performance report
+- CSV export
+- Demo data loading
+- Automatic JSON persistence in data/students.json
+
+To run the original console version instead: python main.py
